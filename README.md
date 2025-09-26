@@ -28,11 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amine-76&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=amine-76&theme=default"/>
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=amine-76&theme=default)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-76&layout=compact&theme=radical" alt="Langages les plus utilisés" />
