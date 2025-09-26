@@ -25,24 +25,24 @@
 ## 📈 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonPseudoGitHub&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amine-76&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonPseudoGitHub&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amine-76&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonPseudoGitHub&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-76&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
 ## 🌟 Projets phares
 
-🔹 [**Assistant vocal**]([https://github.com/tonPseudoGitHub/projet1](https://github.com/amine-76/Recognizer.git)) - Un assistant vocal basique qui peut écouter votre voix, répondre avec une voix synthétique et exécuter des commandes simples comme chercher sur Wikipedia, ouvrir Google ou donner l’heure.
+🔹 [**Assistant vocal**]([https://github.com/amine-76/projet1](https://github.com/amine-76/Recognizer.git)) - Un assistant vocal basique qui peut écouter votre voix, répondre avec une voix synthétique et exécuter des commandes simples comme chercher sur Wikipedia, ouvrir Google ou donner l’heure.
 
-🔹 [**Chatbot Simple avec NLP en Python**]([https://github.com/tonPseudoGitHub/projet2](https://github.com/amine-76/ChatBox.git)) -Ce projet consiste à créer un chatbot basique capable de répondre à des questions en utilisant des techniques de traitement du langage naturel (NLP). Il repose sur l'algorithme de similarité cosinus pour trouver la meilleure réponse parmi un ensemble de questions et réponses pré-définies.
+🔹 [**Chatbot Simple avec NLP en Python**]([https://github.com/amine-76/projet2](https://github.com/amine-76/ChatBox.git)) -Ce projet consiste à créer un chatbot basique capable de répondre à des questions en utilisant des techniques de traitement du langage naturel (NLP). Il repose sur l'algorithme de similarité cosinus pour trouver la meilleure réponse parmi un ensemble de questions et réponses pré-définies.
 
 🔹 [**Projet Universitaire : Modélisation et Gestion de l'Emploi du Temps des L1 en Base de Données Orientée Objet**]([https://github.com/tonPseudoGitHub/projet3](https://github.com/amine-76/Universite-edt.git)) - Ce projet avait pour objectif de concevoir et développer une base de données orientée objet pour gérer l'emploi du temps des étudiants de Licence 1 dans ma faculté. J'ai utilisé les fonctionnalités avancées d'Oracle, comme les types d'objets et l'héritage, pour représenter les entités et leurs relations.
 
