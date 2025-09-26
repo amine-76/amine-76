@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amine-76&theme=radical" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=amine-76&theme=default)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
