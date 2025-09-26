@@ -1,7 +1,7 @@
 ### 👋 Bienvenue sur mon profil GitHub !
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F70000&center=true&vCenter=true&lines=Je+suis+%C3%A9tudiant+en+Master+IWOCS;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9+et+le+d%C3%A9veloppement;Ing%C3%A9nierie+des+syst%C3%A8mes+complexes" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=50&color=F70000&center=true&vCenter=true&lines=Je+suis+%C3%A9tudiant+en+Master+IWOCS;Passionn%C3%A9+par+la+cybers%C3%A9curit%C3%A9+et+le+d%C3%A9veloppement;Ing%C3%A9nierie+des+syst%C3%A8mes+complexes" />
 </p>
 
 <p align="center">
